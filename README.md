@@ -1,5 +1,12 @@
 # Graph Network Intelligence
 
+🌐 **[🚀 Live Dashboard — Try It Here](https://graph-network-intelligence-ymho65fi3dxq4dimxm4iqu.streamlit.app/)**
+
+📂 **[GitHub Repository](https://github.com/Sih-ab/graph-network-intelligence)**
+
+An interactive graph analytics project focused on network exploration, community detection, and link prediction using graph-based machine learning techniques.
+
+
 ## Project Overview
 
 Graph Network Intelligence is a graph machine learning project that analyzes an email communication network using graph algorithms and node embeddings.
